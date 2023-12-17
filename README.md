@@ -1,6 +1,6 @@
-# bouncing-balls
+# bouncing balls
 
-### Typescripts, HTML Canvas
+### Typescript, HTML Canvas
 
 [Demo](https://bouncing-balls-5ofc.onrender.com/)
 
